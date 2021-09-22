@@ -17,7 +17,7 @@ import { Row, Col } from 'reactstrap';
 import Icon from '../../components/icon';
 import TextEditor from '../../components/text-editor';
 import FancyBox from '../../components/fancybox';
-import { initMailbox } from '../../../../common-assets/js/rootui-parts/initMailbox';
+import { initMailbox } from '../../../common-assets/js/rootui-parts/initMailbox';
 
 window.RootUI.initMailbox = initMailbox;
 window.RootUI.initMailbox();

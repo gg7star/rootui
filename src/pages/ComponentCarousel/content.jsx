@@ -32,13 +32,13 @@ class Content extends Component {
                         controls
                         items={ [
                             {
-                                imgSrc: require( '../../../../common-assets/images/slide-first.svg' ),
+                                imgSrc: require( '../../../common-assets/images/slide-first.svg' ),
                                 imgAlt: '',
                             }, {
-                                imgSrc: require( '../../../../common-assets/images/slide-second.svg' ),
+                                imgSrc: require( '../../../common-assets/images/slide-second.svg' ),
                                 imgAlt: '',
                             }, {
-                                imgSrc: require( '../../../../common-assets/images/slide-third.svg' ),
+                                imgSrc: require( '../../../common-assets/images/slide-third.svg' ),
                                 imgAlt: '',
                             },
                         ] }
@@ -62,13 +62,13 @@ class Content extends Component {
                         indicators
                         items={ [
                             {
-                                imgSrc: require( '../../../../common-assets/images/slide-first.svg' ),
+                                imgSrc: require( '../../../common-assets/images/slide-first.svg' ),
                                 imgAlt: '',
                             }, {
-                                imgSrc: require( '../../../../common-assets/images/slide-second.svg' ),
+                                imgSrc: require( '../../../common-assets/images/slide-second.svg' ),
                                 imgAlt: '',
                             }, {
-                                imgSrc: require( '../../../../common-assets/images/slide-third.svg' ),
+                                imgSrc: require( '../../../common-assets/images/slide-third.svg' ),
                                 imgAlt: '',
                             },
                         ] }
@@ -92,17 +92,17 @@ class Content extends Component {
                         indicators
                         items={ [
                             {
-                                imgSrc: require( '../../../../common-assets/images/slide-first.svg' ),
+                                imgSrc: require( '../../../common-assets/images/slide-first.svg' ),
                                 imgAlt: '',
                                 header: 'First slide label',
                                 text: 'Thing seed beginning you\'re bring i great one divided fly.',
                             }, {
-                                imgSrc: require( '../../../../common-assets/images/slide-second.svg' ),
+                                imgSrc: require( '../../../common-assets/images/slide-second.svg' ),
                                 imgAlt: '',
                                 header: 'Second slide label',
                                 text: 'Greater dominion our from behold unto heaven from lesser multiply.',
                             }, {
-                                imgSrc: require( '../../../../common-assets/images/slide-third.svg' ),
+                                imgSrc: require( '../../../common-assets/images/slide-third.svg' ),
                                 imgAlt: '',
                                 header: 'Third slide label',
                                 text: 'Land seasons that creeping deep abundantly given from first have.',
@@ -129,13 +129,13 @@ class Content extends Component {
                         className="carousel-fade"
                         items={ [
                             {
-                                imgSrc: require( '../../../../common-assets/images/slide-first.svg' ),
+                                imgSrc: require( '../../../common-assets/images/slide-first.svg' ),
                                 imgAlt: '',
                             }, {
-                                imgSrc: require( '../../../../common-assets/images/slide-second.svg' ),
+                                imgSrc: require( '../../../common-assets/images/slide-second.svg' ),
                                 imgAlt: '',
                             }, {
-                                imgSrc: require( '../../../../common-assets/images/slide-third.svg' ),
+                                imgSrc: require( '../../../common-assets/images/slide-third.svg' ),
                                 imgAlt: '',
                             },
                         ] }

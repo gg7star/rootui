@@ -54,7 +54,7 @@ class Content extends Component {
                     }
                 >
                     <Card>
-                        <CardImg top src={ require( '../../../../common-assets/images/card.png' ) } alt="" />
+                        <CardImg top src={ require( '../../../common-assets/images/card.png' ) } alt="" />
                         <CardBody>
                             <CardTitle className="h2">Card title</CardTitle>
                             <CardText>Some quick example text to build on the card title and make up the bulk of the card&apos;s content.</CardText>
@@ -76,7 +76,7 @@ class Content extends Component {
                     }
                 >
                     <Card>
-                        <CardImg top src={ require( '../../../../common-assets/images/card.png' ) } alt="" />
+                        <CardImg top src={ require( '../../../common-assets/images/card.png' ) } alt="" />
                         <CardBody className="pb-20">
                             <CardTitle className="h2 mb-0">Card title</CardTitle>
                             <Button className="btn-custom-round card-btn-collapse" onClick={ this.collapse }>
@@ -165,7 +165,7 @@ class Content extends Component {
                     }
                 >
                     <Card>
-                        <CardImg top src={ require( '../../../../common-assets/images/card.png' ) } alt="" />
+                        <CardImg top src={ require( '../../../common-assets/images/card.png' ) } alt="" />
                         <CardBody>
                             <CardTitle className="h2">Card title</CardTitle>
                             <CardText>Some quick example text to build on the card title and make up the bulk of the card&apos;s content.</CardText>

@@ -15,8 +15,8 @@ import { Row, Col } from 'reactstrap';
 /**
  * Internal Dependencies
  */
-import '../../../../common-assets/js/yaybar/yaybar';
-import { initPluginYaybar } from '../../../../common-assets/js/rootui-parts/initPluginYaybar';
+import '../../../common-assets/js/yaybar/yaybar';
+import { initPluginYaybar } from '../../../common-assets/js/rootui-parts/initPluginYaybar';
 import Dropdown from '../bs-dropdown';
 import Icon from '../icon';
 
@@ -148,7 +148,7 @@ class PageYaybar extends Component {
                                     <a href="../dashboard.html">
                                         <span
                                             className="yay-icon"
-                                            dangerouslySetInnerHTML={ { __html: require( '!svg-inline-loader!../../../../common-assets/images/logo-html-inherit.svg' ) } }
+                                            dangerouslySetInnerHTML={ { __html: require( '!svg-inline-loader!../../../common-assets/images/logo-html-inherit.svg' ) } }
                                         />
                                         <span>Switch to HTML</span>
                                         <span className="rui-yaybar-circle"></span>

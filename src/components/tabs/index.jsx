@@ -10,7 +10,7 @@ import {
 /**
  * Internal Dependencies
  */
-import { initTabsSliding } from '../../../../common-assets/js/rootui-parts/initTabsSliding';
+import { initTabsSliding } from '../../../common-assets/js/rootui-parts/initTabsSliding';
 
 window.RootUI.initTabsSliding = initTabsSliding;
 window.RootUI.initTabsSliding();

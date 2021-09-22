@@ -15,9 +15,9 @@ import feather from 'feather-icons';
  */
 import {
     throttleScroll,
-} from '../../common-assets/js/rootui-parts/_utility';
-import { initPluginOverlayScrollbars } from '../../common-assets/js/rootui-parts/initPluginOverlayScrollbars';
-import { initTransitionFix } from '../../common-assets/js/rootui-parts/initTransitionFix';
+} from '../common-assets/js/rootui-parts/_utility';
+import { initPluginOverlayScrollbars } from '../common-assets/js/rootui-parts/initPluginOverlayScrollbars';
+import { initTransitionFix } from '../common-assets/js/rootui-parts/initTransitionFix';
 
 // Utils.
 window.RootUI.throttleScroll = throttleScroll;

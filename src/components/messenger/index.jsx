@@ -17,8 +17,8 @@ import { Collapse, Button } from 'reactstrap';
 /**
  * Internal Dependencies
  */
-import { initPluginEmojioneArea } from '../../../../common-assets/js/rootui-parts/initPluginEmojioneArea';
-import { initMessenger } from '../../../../common-assets/js/rootui-parts/initMessenger';
+import { initPluginEmojioneArea } from '../../../common-assets/js/rootui-parts/initPluginEmojioneArea';
+import { initMessenger } from '../../../common-assets/js/rootui-parts/initMessenger';
 import Icon from '../icon';
 
 window.RootUI.initPluginEmojioneArea = initPluginEmojioneArea;

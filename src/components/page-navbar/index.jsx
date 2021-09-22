@@ -19,7 +19,7 @@ import Icon from '../icon';
 import FancyBox from '../fancybox';
 import PagePopupSearch from '../page-popup-search';
 import Messenger from '../messenger';
-import { initNavbar } from '../../../../common-assets/js/rootui-parts/initNavbar';
+import { initNavbar } from '../../../common-assets/js/rootui-parts/initNavbar';
 
 const $ = window.jQuery;
 
